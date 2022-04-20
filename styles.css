@@ -1,0 +1,44 @@
+body {
+    background-image:  url(img/background.webp);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box{
+    background-color: green;
+    border-radius: 10px;
+    padding: 10px;
+    padding-top: 1px;
+    width: 95%;
+    margin: auto;
+}
+
+#header{
+    text-align: center;
+}
+
+#infomation{
+    text-align: left;
+    
+}
+
+#form-box{
+    text-align: center;
+}
+#form{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    padding-top: 1px;
+    width: 60%;
+    margin: auto;
+    text-align: left;
+
+}
+
+#bigImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    object-fit: contain; 
+}
